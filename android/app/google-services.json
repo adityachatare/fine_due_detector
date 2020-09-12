@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "854658981728",
+    "firebase_url": "https://traffic-cop-cce0b.firebaseio.com",
+    "project_id": "traffic-cop-cce0b",
+    "storage_bucket": "traffic-cop-cce0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854658981728:android:364695e4ae2d491f854805",
+        "android_client_info": {
+          "package_name": "com.example.fine_due"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854658981728-7mmgt6ubc4a4e3tqe2c5csqqunum63is.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fine_due",
+            "certificate_hash": "61b981cb53b76bf549bb87b0b3c25e69c1006f9f"
+          }
+        },
+        {
+          "client_id": "854658981728-m852odigum0fq2nlg0voev5loau5sijs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ4TY50uluXQlc7vYaPOURMA5KIhXU7zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854658981728-m852odigum0fq2nlg0voev5loau5sijs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
